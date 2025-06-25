@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Realme Phone",
+      "category": "Electronics",
+      "price": 12999,
+      "image": "https://th.bing.com/th/id/OIP.V_GP3j5jMUF_LTfFSKCGfAHaHa?rs=1&pid=ImgDetMain&cb=idpwebpc2"
+    },
+    {
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 1999,
+      "image": "https://image.made-in-china.com/2f0j00yfrbKRPsJzuU/Wireless-Earbuds-Type-C-LED-Display-HiFi-Stereo-with-Mic-Wireless-Tws-Earbuds.jpg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Running Shoes",
+      "category": "Fashion",
+      "price": 2599,
+      "image": "https://th.bing.com/th/id/OIP.J1n092W5tuagepK3XgoJfgHaHa?w=1600&h=1600&rs=1&pid=ImgDetMain&cb=idpwebpc2"
+    },
+    {
+      "id": "5",
+      "title": "Chocolate Ice Cream",
+      "category": "Dessert",
+      "price": 120,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/21246328/064189f76d2cf951e56087a9e337aa45.jpg"
+    }
+  ]
+}
